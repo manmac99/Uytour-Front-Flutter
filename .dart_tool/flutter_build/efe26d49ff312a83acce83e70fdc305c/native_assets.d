@@ -1,0 +1,1 @@
+ /Users/jinwoo220/Desktop/2024-Winter/Uyeon\ Project/FrontEnd_Flutter/uyproj1/.dart_tool/flutter_build/efe26d49ff312a83acce83e70fdc305c/native_assets.yaml: 
